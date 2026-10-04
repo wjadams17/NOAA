@@ -1,1 +1,1 @@
-Windows: irm "https://raw.githubusercontent.com/wjadams/noaa/main/benchmark_download.ps1" | iex
+Windows (Run from Administrator PowerShell): irm "https://raw.githubusercontent.com/wjadams17/NOAA/main/Benchmark_Download.ps1" | iex
